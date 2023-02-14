@@ -1,0 +1,113 @@
+.logo {
+  height: 50px;
+  width: 50px;
+}
+
+.job-1 {
+  display: flex;
+}
+
+.job-223 {
+  height: 600px;
+  width: 900px;
+  background-color: #272727;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.job-224 {
+  height: 330px;
+  width: 350px;
+  background-color: #272727;
+  margin: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.job-33 {
+  display: flex;
+}
+
+.icon {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+}
+
+.job-title-1 {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: white;
+  font-weight: 500;
+  margin: 10px;
+}
+
+.job-title {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: white;
+  font-weight: 500;
+  margin: 10px;
+}
+
+.job-rating {
+  color: white;
+  margin: 10px;
+}
+
+.star {
+  color: #fbbf24;
+}
+.line {
+  width: 90%;
+  background-color: #b6c5ff;
+}
+
+.job-44 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.job-item-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.details1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pp {
+  height: 100px;
+  width: 180px;
+  overflow-y: auto;
+  border-radius: 5px;
+}
+
+.life-at {
+  display: flex;
+  flex-direction: row;
+}
+
+.pp-1 {
+  height: 50px;
+  width: 40px;
+  margin-left: 25px;
+  margin-top: 5px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}

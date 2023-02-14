@@ -1,0 +1,18 @@
+.job-heading-1 {
+  font-size: 40px;
+  color: white;
+  font-weight: 800;
+}
+
+.job-subheading {
+  font-size: 20px;
+  color: white;
+  font-weight: 400;
+}
+
+.bon {
+  height: 32px;
+  width: 90px;
+  background-color: #4f46e5;
+  color: white;
+}
